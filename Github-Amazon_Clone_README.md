@@ -1,3 +1,6 @@
+# Methodology
+Following Methodology was used:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,4 +42,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-# Amazon_Clone
+# Description
+An Amazon Clone Website 
+Frontend developed using HTML,CSS,Javascript
+Backend developed using react Js
+
+# Live link
+https://e-clone-2c81e.web.app/
+
+# Screenshot of the Interface
+![image](https://user-images.githubusercontent.com/56764514/208245530-fab7a2c2-709b-4d71-943a-e71ae4f2c8ba.png)
+
+![image](https://user-images.githubusercontent.com/56764514/208245681-ba353b8a-338a-47d9-a7e1-f090fe8346e0.png)
+
+![image](https://user-images.githubusercontent.com/56764514/208245762-e7e0922d-a959-4b82-ad43-dbece2b4f63c.png)
+
+
+
